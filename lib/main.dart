@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
 }
 
 class setapikey {
-  String apikey = "AIzaSyC8KiUVswKPPX58BWr8ZY-G0Ipnv6xoaiE";
+  String apikey = "";
 }
 
 String apiKey = setapikey().apikey;
